@@ -1,1 +1,1 @@
-# geth-ethereum-aws-managed
+# geth-ethereum-aws
